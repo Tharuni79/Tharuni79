@@ -60,9 +60,9 @@ Evaluated performance using precision, recall, F1-score, and ROC-AUC for reliabl
 
 Certifications
 
-AWS Cloud Computing – AICTE
-MongoDB – Great Learning
-DSA with C++ – GeeksforGeeks
-Master DSA Program – Smart Interviews
-Python, C Programming – Infosys Springboard
-Java Programming – Coursera
+AWS Cloud Computing – AICTE   
+MongoDB – Great Learning   
+DSA with C++ – GeeksforGeeks  
+Master DSA Program – Smart Interviews  
+Python, C Programming – Infosys Springboard   
+Java Programming – Coursera   
