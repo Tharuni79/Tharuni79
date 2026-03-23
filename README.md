@@ -25,13 +25,16 @@ SPR School of Excellence, Miryalaguda, India
 🎓 GPA: 10.0
 
 Technical Skills
+
 Programming: Python, Java, C, SQL
 Web Technologies: HTML, CSS, React.js, Node.js
 Databases: MySQL, MongoDB
 Machine Learning: Scikit-learn, XGBoost, Pandas, NumPy, Data Preprocessing, Model Evaluation
 Tools: Git, GitHub, VS Code, Power BI
 Coursework: Data Structures & Algorithms, Object-Oriented Programming, Database Management Systems
+
 Projects
+
 Bank Management System
 
 Tech Stack: Java, Spring Boot, React, MySQL, JWT
@@ -54,7 +57,9 @@ Developed an end-to-end machine learning pipeline to detect fraudulent transacti
 Handled highly imbalanced datasets using SMOTE to improve model performance for minority classes.
 Implemented and compared classification models including Logistic Regression, Random Forest, and XGBoost.
 Evaluated performance using precision, recall, F1-score, and ROC-AUC for reliable prediction.
+
 Certifications
+
 AWS Cloud Computing – AICTE
 MongoDB – Great Learning
 DSA with C++ – GeeksforGeeks
